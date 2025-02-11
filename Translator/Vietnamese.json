@@ -2,12 +2,12 @@
   "Select Tool": ["Chọn Công Cụ", "Chọn công cụ bạn muốn sử dụng"],
   "UI Scale": ["Kích thước UI", "Điều chỉnh kích thước giao diện"],
   
-  "Auto Farm Level": ["Tự Động Lên Cấp", "Tự động farm cấp"],
+  "Auto Farm Level": ["Tự Động Cày Cấp", "Tự động farm cấp"],
   "Auto Farm Nearest": ["Farm Kẻ Địch Gần", "Tự động tiêu diệt kẻ địch gần nhất"],
   "Sky Piea Farm": ["Farm Sky Piea", "Tự động farm kẻ địch ở Sky Piea"],
   "Player Hunter Quest": ["Săn Người Chơi", "Nhận và hoàn thành nhiệm vụ săn người chơi"],
   
-  "Auto Factory": ["Nhà Máy Tự Động", "Tự động farm nhà máy, xuất hiện mỗi 1:30 (giờ:phút)"],
+  "Auto Factory": ["Đánh Nhà Máy Tự Động", "Tự động farm nhà máy, xuất hiện mỗi 1:30 (giờ:phút)"],
   "Auto Farm Ectoplasm": ["Farm Ectoplasm", "Tự động farm Ectoplasm"],
   
   "Auto Pirates Sea": ["Farm Hải Tặc Biển", "Tự động hoàn thành sự kiện hải tặc ở Castelo do Mar"],
@@ -19,7 +19,7 @@
   "Auto Christmas Gift": ["Quà Giáng Sinh Tự Động", "Tự động nhận quà Giáng Sinh mỗi 1 giờ"],
   "Auto Store Holiday Gift": ["Lưu Quà", "Lưu trữ quà đã thu thập"],
   
-  "Auto Chest [ Tween ]": ["Tự Động Rương [ Tween ]", "Tự động mở rương bằng Tween"],
+  "Auto Chest [ Tween ]": ["Tự Động NhặtNhặt Rương [ Tween ]", "Tự động mở rương bằng Tween"],
   
   "Update Boss List": ["Cập Nhật Boss", "Làm mới danh sách boss"],
   "Boss List": ["Danh Sách Boss", "Chọn boss để tấn công"],
@@ -74,62 +74,7 @@
   "Auto Collect Berries": ["Tự Động Thu Berries", "Thu thập Berries trên bản đồ"],
   "Auto Berry Hop": ["Tự Động Đổi Server Berries", "Đổi server sau khi thu hết Berries"],
   "Select Aura": ["Chọn Màu", "Chọn màu Haki"],
-  "Auto Craft Aura Color": ["Tự Chế Màu", "Thu Berries đến khi đủ chế màu Haki"],
-  "Auto Craft Hop": ["Tự Động Đổi Server Chế", "Đổi server để tìm Berries còn thiếu"],
-  
-  "Race": "Chủng Tộc",
-  "Auto Race V2": ["Nâng Cấp V2", "Nâng chủng tộc lên V2"],
-  "Auto Race V3": ["Nâng Cấp V3", "Nâng chủng tộc (chỉ Mink, Human hoặc Shark)"],
-  
-  "Auto Bartilo Quest": ["Nhiệm Vụ Bartilo Tự Động", "Yêu cầu cấp 850"],
-  
-  "Second Sea": "Biển 2",
-  "Auto Second Sea": ["Tự Động Biển 2", "Hoàn thành yêu cầu cho Biển 2"],
-  
-  "Swords": "Kiếm",
-  "Auto Unlock Saber": ["Mở Khóa Saber", "Giải đố và đánh bại Shanks"],
-  "Auto Pole V1": ["Auto Pole V1", "Đánh bại Thunder God đến khi nhận Pole V1"],
-  "Auto Saw Sword": ["Auto Saw Sword", "Đánh bại The Saw đến khi nhận Shark Saw"],
-  
-  "Fruits": "Trái Ác",
-  "Auto Store Fruits": ["Tự Động Lưu Trữ", "Lưu trái vào kho"],
-  "Teleport To Fruits": ["Tự Động Thu Trái", "Thu thập trái trên bản đồ"],
-  "Auto Random Fruit": ["Quay Trái Ngẫu Nhiên", "Tự động quay trái"],
-  
-  "Select Chip": ["Chọn Chip Đột Kích", "Chọn chip để bắt đầu đột kích"],
-  "Auto Farm Raid": ["Tự Động Farm Đột Kích", "Farm đột kích, thức tỉnh và tấn công"],
-  "Auto Buy Chip": ["Tự Động Mua Chip", "Mua chip cho đột kích"],
-  "Unstore Common Fruits": ["Bỏ Lưu Trái Thường", "Bỏ lưu trái thường để đổi lấy Microchip"],
-  
-  "Islands": "Đảo",
-  "Islands Stats": "Trạng Thái Đảo",
-  "Auto Craft Volcanic Magnet": ["Chế Volcanic Magnet", "Thu thập nguyên liệu và chế tạo"],
-  "Auto Prehistoric Island": ["Tự Động Đảo Tiền Sử", "Farm tài nguyên trên đảo"],
-  "Auto Kill Lava Golem": ["Giết Golem Dung Nham", "Tiêu diệt Golem bằng 'Kill Aura'"],
-  "Auto Collect Dinosaur Bones": ["Thu Xương Khủng Long", "Thu xương sau khi hoàn thành đảo"],
-  "Auto Collect Dragon Egg": ["Thu Trứng Rồng", "Thu thập trứng rồng"],
-  "Reset after finishing": ["Reset Sau Khi Hoàn Thành", "Reset nhân vật sau khi hoàn thành đảo"],
-  
-  "Kitsune Island": "Đảo Kitsune",
-  "Trade Azure Ember Amount": ["Số Lượng Đổi", "Thiết lập số lượng Azure Ember để đổi"],
-  "Auto Trade Azure Ember": ["Tự Động Đổi Azure Ember", "Đổi Azure Ember lấy phần thưởng ngẫu nhiên"],
-  "Auto Kitsune Island": ["Farm Đảo Kitsune", "Tìm đảo Kitsune và thu Azure Ember"],
-  
-  "Mirage Island": "Đảo Ảo Ảnh",
-  "Teleport To Gear": ["Dịch Chuyển Đến Bánh Răng", "Đến bánh răng nếu có"],
-  "Teleport To Mirage": ["Dịch Chuyển Đến Đảo Ảo", "Đến đảo Ảo Ảnh"],
-  "Teleport To Fruit Dealer": ["Dịch Chuyển Đến NPC Bán Trái", "Đến NPC bán trái trên đảo Ảo"],
-  
-  "Teleport to Sea 1": ["Đến Biển 1", "Dịch chuyển đến Biển 1"],
-  "Teleport to Sea 2": ["Đến Biển 2", "Dịch chuyển đến Biển 2"],
-  "Teleport to Sea 3": ["Đến Biển 3", "Dịch chuyển đến Biển 3"],
-  
-  "Select Island": "Chọn Đảo",
-  "Teleport to Island": "Dịch Chuyển Đến Đảo",
-  "Teleport to Temple of Time": "Dịch Chuyển Đến Đền Thời Gian",
-  
-  "ESP Players": ["ESP Người Chơi", "Hiển thị người chơi trên bản đồ"],
-  "ESP Fruits": ["ESP Trái Ác", "Hiển thị trái trên bản đồ"],
+  "Auto Craft Aura Color": ["Tự Chế Màu", "Thu Quỷ", "Hiển thị trái trên bản đồ"],
   "ESP Islands": ["ESP Đảo", "Hiển thị đảo"],
   "ESP Chests": ["ESP Rương", "Hiển thị rương có thể mở"],
   "ESP Berries": ["ESP Berries", "Hiển thị Berries có sẵn"],
@@ -185,7 +130,7 @@
   "Christmas": "Giáng Sinh",
   "Bones": "Xương",
   "Ectoplasm": "Ectoplasm",
-  "Fruit/Raid": "Trái/Đột Kích",
+  "Fruit/Raid": "Trái/Riad",
   "Teleport": "Dịch Chuyển",
   "Chest": "Rương",
   "Quests/Items": "Nhiệm Vụ/Vật Phẩm",
